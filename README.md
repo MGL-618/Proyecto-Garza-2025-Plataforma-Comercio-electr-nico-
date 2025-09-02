@@ -7,3 +7,6 @@ Nos basamos en plataformas de comercio electrónico consolidadas, asegurándonos
 
 ------------- https://www.shopify.com/mx ----------------
 <img width="829" height="677" alt="image" src="https://github.com/user-attachments/assets/8756f425-9e31-4341-a5ec-e467bd43686e" />
+
+<img width="790" height="467" alt="image" src="https://github.com/user-attachments/assets/82dcf7a2-ecc1-4d02-b7b0-56fc906e818e" />
+
