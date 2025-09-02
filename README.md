@@ -5,4 +5,4 @@ Desarrollamos una plataforma de comercio electrónico que permite a las empresas
 
 Nos basamos en plataformas de comercio electrónico consolidadas, asegurándonos de incorporar y cumplir con sus principales características para desarrollar nuestra propia solución de manera local, adaptada a las necesidades de nuestro entorno.
 
-------------- https://www.shopify.com/mx----------------
+------------- https://www.shopify.com/mx ----------------
