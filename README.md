@@ -1,2 +1,2 @@
 # Proyecto-Garza-2025-Plataforma-Comercio-electr-nico-
-Desarrollamos una plataforma de ecomerce, en esta plataforma las empresas podran promocionar su empresa y productos de manera personalizada, todo se almacenara en una base de datos, también se guardaran usuarios y mas, todo inspirado en la plataforma Shopify 
+Desarrollamos una plataforma de comercio electrónico que permite a las empresas promocionar su marca y productos de forma personalizada. Toda la información, incluyendo catálogos, usuarios y más, se gestiona y almacena en una base de datos segura. El proyecto está inspirado en la funcionalidad y versatilidad de Shopify, pero adaptado a nuestras propias necesidades e innovación.
