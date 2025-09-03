@@ -1,6 +1,6 @@
 # Proyecto-Garza-2025-Plataforma-Comercio-electronico
 
-## <p aling = "center">¿Qué es una plataforma de comercio?</p> 
+ <p aling = "center">¿Qué es una plataforma de comercio?</p> 
 
 Una plataforma de comercio se refiere a un software diseñado para facilitar las transacciones de ventas en línea entre compradores y vendedores, abarcando funcionalidades como la gestión de catálogos de productos, el procesamiento de pedidos, la integración de pasarelas de pago, el seguimiento de inventario, la gestión de envíos y las herramientas de análisis.
 Esencialmente, es la base sobre la que las empresas modernas de comercio electrónico construyen su presencia en línea, proporcionando herramientas para gestionar las ventas, las interacciones con los clientes y los procesos backend.
