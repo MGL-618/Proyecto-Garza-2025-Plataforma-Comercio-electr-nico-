@@ -1,5 +1,17 @@
 # Proyecto-Garza-2025-Plataforma-Comercio-electronico
 
+## <p align ="center">Actividad</p>
+Desarrollar una tienda online para negocios locale spequeños con un pasarela de pagos silulada
+
+Tecnologias sugeridas: Nexr.js, Node.js, MongoDB
+
+Caracteristicas principales: 
+- catalogo de productos
+- carrito de compras y checkout
+- gestion de inventario y pedidos
+
+
+
 ## <p align ="center">¿Qué es una plataforma de comercio?</p> 
 
 
