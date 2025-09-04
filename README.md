@@ -32,9 +32,11 @@ La mayoría de las plataformas de eCommerce ofrecen múltiples diseños y templa
 Shopify es una plataforma de comercio electrónico basada en la nube, conocida como software como servicio (SaaS), que permite a emprendedores, pymes y grandes empresas crear, personalizar y gestionar tiendas online sin necesidad de conocimientos técnicos avanzados de programación.
 
 <img width="1869" height="798" alt="image" src="https://github.com/user-attachments/assets/f5a75607-c20e-4e56-abff-99ddda8ac5b7" />
+<br><br>
 
 Shopify ofrece una variedad de planes de precios para adaptarse a diferentes tipos de negocios, desde emprendedores individuales hasta grandes empresas.
 
+<br><br>
 <img width="1175" height="939" alt="image" src="https://github.com/user-attachments/assets/da4cd440-3ce7-4462-97bb-eb0c09d4643d" />
 
 
