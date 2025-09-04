@@ -25,7 +25,7 @@ Cuando selecciones tu plataforma, evalúa qué tan amigable es la herramienta pa
 
 La mayoría de las plataformas de eCommerce ofrecen múltiples diseños y templates listos para implementar. De tal forma que no tendrás que consumir mucho tiempo en el diseño que ven los usuarios de tu tienda en línea.
 
-## **------------------------------------------------Ejemplo-----------------------------------------------**
+## **------------------------------------------------Ejemplo-----------------------------------**
 
 <p align="center">Shopify</p>
 
